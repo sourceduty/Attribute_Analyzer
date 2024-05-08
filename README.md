@@ -6,7 +6,7 @@
 
 #
 
-Alex *"There is a lot that I want to say that is already said by what I do and create. I think AI can help to translate these attributes to everyone."*
+> Alex *"There is a lot that I want to say that is already said by what I do and create. I think AI can help to translate these attributes to everyone."*
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
