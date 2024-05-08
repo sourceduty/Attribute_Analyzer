@@ -5,6 +5,11 @@
 "Attribute Analyzer" can assist users by offering a clear and thorough insight into the various qualities and capabilities of the subject being examined. For individuals, this might include an analysis of career progress, skill proficiency, and professional accomplishments. For businesses, it could encompass evaluations of market dynamics, competitive standing, and operational effectiveness. By providing such detailed assessments, "Attribute Analyzer" helps in strategic decision-making, personal development, and enhancing business strategies to better align with industry standards and expectations.
 
 #
+### Example Usage
+
+[Jeff_Bezos_Attribute_Report.txt](https://github.com/sourceduty/Attribute_Analyzer/files/15248089/Jeff_Bezos_Attribute_Report.txt)
+
+#
 
 > Alex *"There is a lot that I want to say that is already said by what I do and create. I think AI can help to translate these attributes to everyone."*
 
