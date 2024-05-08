@@ -8,6 +8,8 @@
 ### Example Usage
 
 [Jeff_Bezos_Attribute_Report.txt](https://github.com/sourceduty/Attribute_Analyzer/files/15248089/Jeff_Bezos_Attribute_Report.txt)
+<br>
+[Sourceduty_Attribute_Report.txt](https://github.com/sourceduty/Attribute_Analyzer/files/15248127/Sourceduty_Attribute_Report.txt)
 
 #
 
