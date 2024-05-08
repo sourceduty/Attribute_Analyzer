@@ -10,6 +10,8 @@
 [Jeff_Bezos_Attribute_Report.txt](https://github.com/sourceduty/Attribute_Analyzer/files/15248089/Jeff_Bezos_Attribute_Report.txt)
 <br>
 [Sourceduty_Attribute_Report.txt](https://github.com/sourceduty/Attribute_Analyzer/files/15248127/Sourceduty_Attribute_Report.txt)
+<br>
+[Amazon_Attribute_Report_2024.txt](https://github.com/sourceduty/Attribute_Analyzer/files/15248177/Amazon_Attribute_Report_2024.txt)
 
 #
 
